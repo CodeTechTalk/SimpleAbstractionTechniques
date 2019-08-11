@@ -1,0 +1,2 @@
+# SimpleAbstractionTechniques
+Simple abstraction techniques
